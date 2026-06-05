@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Cafe Lounge",
+  "description": "An immersive web environment showcasing a modern luxury cafe at night. Features interactive flavor profiling, artisanal coffee brewing simulations, and a warm-glow, cozy ambient synthesizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
